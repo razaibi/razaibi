@@ -11,7 +11,12 @@ Here are some ideas to get you started:
 -->
 
 - Pronouns: ... He/Him
-- 🔭 I’m currently working on ... [Zaunic](https://www.github.com/razaibi/zaunic)
-- 🌱 I’m currently nerding ... Everything Cloud, IoT Edge, Automation & Observability
 - 📫 How to reach me: ... [Twitter](https://twitter.com/ekisraza)
+- 🔭 I’m currently working on ... [Zaunic](https://www.github.com/razaibi/zaunic)
+- 🌱 I’m currently learning ... Everything Cloud, IoT Edge, Automation & Observability
+- 😂 Me on an average day:
+
+![Me on an average day](https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif)
+
+
 
