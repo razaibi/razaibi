@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... Everything Cloud, IoT Edge, Automation & Observability
 - Talks :
 - - [Solution Accelerators with Jinja](https://www.youtube.com/watch?v=A44MOWWeidI)
+- - [Zaunic : Acceleration Simplified with Zaunic](https://www.youtube.com/watch?v=ji8wYJE0c1I)
 - 😂 Me on an average day:
 
 ![Me on an average day](https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif)
