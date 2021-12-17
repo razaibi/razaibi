@@ -11,15 +11,12 @@ Here are some ideas to get you started:
 -->
 
 - Pronouns: ... He/Him
-- 📫 How to reach me: ... [Twitter](https://twitter.com/ekisraza)
-- 🔭 I’m currently working on ... [Zaunic](https://www.github.com/razaibi/zaunic)
-- 🌱 I’m currently learning ... Everything Cloud, IoT Edge, Automation & Observability
+- How to reach me: ... [Twitter](https://twitter.com/ekisraza)
+- I’m currently working on ... [Zaunic](https://www.github.com/razaibi/zaunic)
+- Other things I work on : IoT Edge, Cloud Infrastructure, Automation & Observability
 - Talks :
 - - [Solution Accelerators with Jinja](https://www.youtube.com/watch?v=A44MOWWeidI)
 - - [Zaunic : Acceleration Simplified with Zaunic](https://www.youtube.com/watch?v=ji8wYJE0c1I)
-- 😂 Me on an average day:
-
-![Me on an average day](https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif)
 
 
 
