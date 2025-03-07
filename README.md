@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 -->
 
 - Pronouns: ... He/Him
-- How to reach me: ... [Twitter](https://twitter.com/ekisraza)
+- How to reach out to me: ... [X](https://x.com/razpinator)
 - I’m currently working on ... [genmax](https://www.github.com/razaibi/zaunic)
 - Other things I work on : IoT Edge, Cloud Infrastructure, Automation & Observability
 - Talks :
